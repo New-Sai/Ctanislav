@@ -1,0 +1,8 @@
+my_strring = input('Введите ваше имя и фамилию: ')
+print(len(my_strring))
+print(my_strring.upper())
+print(my_strring.upper().lower())
+new_my_string = (my_strring .replace(' ',''))
+print(new_my_string)
+print(my_strring[0])
+print(my_strring[-1])
